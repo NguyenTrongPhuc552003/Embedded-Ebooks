@@ -1,8 +1,8 @@
-## Embedded-Ebooks
+### Embedded-Ebooks
 
 This repository is a collection of ebooks and resources related to C/C++, Embedded Systems, and Linux Kernel development.
 
-### Content Structure:
+## Content Structure:
 
 * **Cpp:** This folder contains C/C++ related code examples or resources.
 * **Embedded Linux:** This folder contains ebooks and resources related to Embedded Linux development.
