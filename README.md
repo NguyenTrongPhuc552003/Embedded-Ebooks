@@ -1,28 +1,20 @@
-# Embedded Ebooks
+## Embedded-Ebooks
 
-Welcome to the Embedded Ebooks repository!
+This repository is a collection of ebooks and resources related to C/C++, Embedded Systems, and Linux Kernel development.
 
-## Overview
+### Content Structure:
 
-This repository contains a collection of ebooks related to embedded systems development.
+* **Cpp:** This folder contains C/C++ related code examples or resources.
+* **Embedded Linux:** This folder contains ebooks and resources related to Embedded Linux development.
+    * **AM572x Sitara Processor Techni...**: This file provides information about the AM572x Sitara Processor.
+    * **Embedded Linux Primer - 2nd Ed...**: Second edition of an ebook on Embedded Linux Primer.
+    * **Exploring BeagleBone - Derek ...**: A book by Derek on Exploring BeagleBone.
+* **Linux Kernel:** This folder contains ebooks and resources related to Linux Kernel development.
+    * **Linux Architecture.pdf**: A pdf document explaining Linux Architecture.
+    * **Linux Kernel Development - 3rd Ed...**: Third edition of an ebook on Linux Kernel Development.
+    * **Linux Kernel Module Programming**: A file about Linux Kernel Module Programming.
+* **README.md**: This file (the one you're reading!) provides an overview of the repository and its contents.
 
-## Contents
+This repository is intended for developers interested in learning and exploring C/C++, Embedded Systems, and Linux Kernel development. 
 
-- [Introduction to Embedded Systems](Introduction_to_Embedded_Systems.pdf): This ebook provides an overview of embedded systems and their applications.
-- [Embedded C Programming](Embedded_C_Programming.pdf): Learn the fundamentals of C programming for embedded systems.
-- [RTOS Basics](RTOS_Basics.pdf): Understand the basics of Real-Time Operating Systems (RTOS) and their usage in embedded projects.
-
-## Usage
-
-Feel free to explore the ebooks and use them for your learning and development projects.
-
-## Contributing
-
-Contributions are welcome! If you have any additional ebooks you'd like to contribute, please follow these steps:
-1. Fork the repository.
-2. Add your ebooks to the appropriate directory.
-3. Create a pull request.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
+Feel free to contribute your own resources by following the standard contribution guidelines (if any, which would typically be a separate CONTRIBUTING.md file).
